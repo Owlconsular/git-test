@@ -1,3 +1,3 @@
-﻿print("waagh!")
-print("dance, ful 'ummies!")
-print("waaaagh!")
+﻿print("waagh!");
+print("dance, ful 'ummies!");
+print("waaaagh!");
